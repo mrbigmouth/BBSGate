@@ -7,5 +7,6 @@ HTTP的跳版網站滿多的，<br />
 1.安裝<a href="http://nodejs.org/" target="_blank">nodejs</a>。<br />
 2.下載檔案。<br />
 3.在命令列執行node index.js [PORT]。<br />
-4.[PORT]中輸入的是跳板站的port位置，如node index.js 13667。（這邊設成你家公司沒有鎖的port就對了）<br />
-5.想要跳板的人透過你架站的ip、port連線進來，便可輸入要連接bbs位置轉接過去。
+4.[PORT]中輸入的是跳板站的port位置，如node index.js 12345。（這邊設成你家公司沒有鎖的port就對了）<br />
+5.想要跳板的人透過你架站的ip、port連線進來，便可輸入要連接bbs位置轉接過去。<br/>
+<img src="blob/master/example.png" style="width: 100%;height:auto;" />
